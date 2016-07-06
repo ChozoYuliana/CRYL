@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="CrylService"
+                   namespace="CrylService.Dominio"
+                   default-lazy="false">
+  <class name="Medicamento" table="Medicamentos">
+    <id name="CodMedicamento" access="property" column="CodMedicamento">
+      <generator class="native" />
+    </id>
+    <property name="NombreMedicamento" column="NombreMedicamento" />
+    <property name="PrecioUnidad" column="PrecioUnidad" />
+    <property name="UnidadesEnExistencia" column="UnidadesEnExistencia" />
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,37 @@
+C:\Users\alesanaPk\Desktop\videos\CrylFinal\CrylService\bin\CrylService.dll.config
+C:\Users\alesanaPk\Desktop\videos\CrylFinal\CrylService\bin\CrylService.dll
+C:\Users\alesanaPk\Desktop\videos\CrylFinal\CrylService\bin\CrylService.pdb
+C:\Users\alesanaPk\Desktop\videos\CrylFinal\CrylService\bin\Iesi.Collections.dll
+C:\Users\alesanaPk\Desktop\videos\CrylFinal\CrylService\bin\NHibernate.dll
+C:\Users\alesanaPk\Desktop\videos\CrylFinal\CrylService\obj\Debug\CrylService.csprojResolveAssemblyReference.cache
+C:\Users\alesanaPk\Desktop\videos\CrylFinal\CrylService\obj\Debug\CrylService.dll
+C:\Users\alesanaPk\Desktop\videos\CrylFinal\CrylService\obj\Debug\CrylService.pdb
+C:\Users\antony\Downloads\final\CrylFinal\CrylService\obj\Debug\CrylService.csprojResolveAssemblyReference.cache
+C:\Users\antony\Downloads\final\CrylFinal\CrylService\obj\Debug\CrylService.dll
+C:\Users\antony\Downloads\final\CrylFinal\CrylService\obj\Debug\CrylService.pdb
+C:\Users\antony\Downloads\final\CrylFinal\CrylService\bin\CrylService.dll.config
+C:\Users\antony\Downloads\final\CrylFinal\CrylService\bin\CrylService.dll
+C:\Users\antony\Downloads\final\CrylFinal\CrylService\bin\CrylService.pdb
+D:\FINAL_CRYL\final\CrylFinal\CrylService\bin\CrylService.dll.config
+D:\FINAL_CRYL\final\CrylFinal\CrylService\bin\CrylService.dll
+D:\FINAL_CRYL\final\CrylFinal\CrylService\bin\CrylService.pdb
+D:\FINAL_CRYL\final\CrylFinal\CrylService\obj\Debug\CrylService.dll
+D:\FINAL_CRYL\final\CrylFinal\CrylService\obj\Debug\CrylService.pdb
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\bin\CrylService.dll.config
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\bin\CrylService.dll
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\bin\CrylService.pdb
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\obj\Debug\CrylService.csprojResolveAssemblyReference.cache
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\obj\Debug\CrylService.dll
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\obj\Debug\CrylService.pdb
+D:\FINAL_CRYL\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\obj\Debug\CrylService.csprojResolveAssemblyReference.cache
+D:\FINAL_CRYL\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\obj\Debug\CrylService.dll
+D:\FINAL_CRYL\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\obj\Debug\CrylService.pdb
+D:\FINAL_CRYL\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\bin\CrylService.dll.config
+D:\FINAL_CRYL\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\bin\CrylService.dll
+D:\FINAL_CRYL\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylService\bin\CrylService.pdb
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylService\bin\CrylService.dll.config
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylService\bin\CrylService.dll
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylService\bin\CrylService.pdb
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylService\obj\Debug\CrylService.csprojResolveAssemblyReference.cache
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylService\obj\Debug\CrylService.dll
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylService\obj\Debug\CrylService.pdb

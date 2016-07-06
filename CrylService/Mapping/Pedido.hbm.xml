@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="CrylService"
+                   namespace="CrylService.Dominio"
+                   default-lazy="false">
+  <class name="Pedido" table="Pedidos">
+    <id name="NroPedido" access="property" column="NroPedido">
+      <generator class="native" />
+    </id>
+    
+    <property name="FechaPedido" column="FechaPedido"/>
+    <property name="FechaEntrega" column="FechaEntrega"/>
+    <property name="DireccionDestinatario" column="DireccionDestinatario"/>
+  <many-to-one name="Clien" column="CodCliente" />
+    <many-to-one name="Emplea" column="CodEmpleado" />
+  </class>
+</hibernate-mapping>
