@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="CrylService"
+                   namespace="CrylService.Dominio"
+                   default-lazy="false">
+  <class name="Cliente" table="Cliente">
+    <id name="CodCliente" access="property" column="CodCliente">
+      <generator class="native" />
+    </id>
+    <property name="Nombre" column="Nombre" />
+    <property name="Apellidos" column="Apellidos" />
+    <property name="Dni" column="Dni" />
+    <property name="Email" column="Email" />
+    <property name="Telefono" column="Telefono" />
+    <property name="Sexo" column="Sexo" />
+  </class>
+</hibernate-mapping>
