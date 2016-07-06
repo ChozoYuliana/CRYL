@@ -1,0 +1,51 @@
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.exe.config
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.exe
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.pdb
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.csprojResolveAssemblyReference.cache
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.Properties.Resources.resources
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.csproj.GenerateResource.Cache
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.exe
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.pdb
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.AgregarMedicamento.resources
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.MenuPrincipal.resources
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.IngresarFactura.resources
+C:\Users\antony\Downloads\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.ListaPedidos.resources
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.exe.config
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.exe
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.pdb
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.AgregarMedicamento.resources
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.IngresarFactura.resources
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.ListaPedidos.resources
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.MenuPrincipal.resources
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.Pedidos.resources
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.Properties.Resources.resources
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.csproj.GenerateResource.Cache
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.exe
+D:\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.pdb
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.exe.config
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.exe
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.pdb
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.csprojResolveAssemblyReference.cache
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.AgregarMedicamento.resources
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.IngresarFactura.resources
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.ListaPedidos.resources
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.MenuPrincipal.resources
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.Pedidos.resources
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.Properties.Resources.resources
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.csproj.GenerateResource.Cache
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.exe
+C:\FINAL_CRYL\FINAL_CRYL\final\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.pdb
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.exe.config
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.exe
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.pdb
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.csprojResolveAssemblyReference.cache
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.AgregarMedicamento.resources
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.IngresarFactura.resources
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.ListaPedidos.resources
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.MenuPrincipal.resources
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.Pedidos.resources
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.Properties.Resources.resources
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.csproj.GenerateResource.Cache
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.exe
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\bin\Debug\CrylDesktop.pdb
+D:\TRABAJO FINAL SERVICIOS\CrylFinal\CrylDesktop\obj\Debug\CrylDesktop.NuevoMedicamento.resources
